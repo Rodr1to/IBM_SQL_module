@@ -1,5 +1,7 @@
 # IBM_SQL_module
 
+This repository contains the answers for coursera 's updated "Databases and SQL for Data Science with Python " course by ibm including the honors assignment .
+
 ## Main Topics
 * Accessing Databases using Python
 * How to Access Databases Using Python
